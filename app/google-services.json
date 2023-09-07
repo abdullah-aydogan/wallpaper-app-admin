@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869742487067",
+    "firebase_url": "https://duvar-kagitlari-9dc6b-default-rtdb.firebaseio.com",
+    "project_id": "duvar-kagitlari-9dc6b",
+    "storage_bucket": "duvar-kagitlari-9dc6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869742487067:android:1a79fd01a06c08cb61fabe",
+        "android_client_info": {
+          "package_name": "com.abdullah.duvarkagitlariadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869742487067-erdovb7jmvt553bd791suf9jugp7jstb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3-oTqOOEcSiZ5Z_QP_z3eOsYdUe9UR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869742487067-erdovb7jmvt553bd791suf9jugp7jstb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
